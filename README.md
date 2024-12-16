@@ -2,7 +2,7 @@
 - 👀 I’m interested in game engine development, developer tools
 - 🌱 I’m currently learning Python, Odin, Rust
 - 💞️ I’m looking to collaborate on Python, Odin, Rust projects
-- 📫 How to reach me: Send me a message at cory.a.gideon@gmail.com
+- 📫 How to reach me: Send me a message a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
